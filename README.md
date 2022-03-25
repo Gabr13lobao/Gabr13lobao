@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**Gabr13lobao/Gabr13lobao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align= "center"> My name is Gabriel and i don't know how to use this ¯\_(ツ)_/¯</h1>
 
 Here are some ideas to get you started:
 
